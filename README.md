@@ -15,7 +15,7 @@ Firebase 인증(Firebase Authentication) 및 NoSQL 데이터베이스(Firebase R
 
 
 ## 화면 구성
-![Image Alt Text](StayLinked/img/요양병원%20측%20앱%20구성도.png)
+![Image Alt Text](/StayLinked/img/요양병원%20측%20앱%20구성도.png)
 - **로그인 화면**: 앱의 시작 화면으로, 사용자가 병원 측에서 제공된 계정으로 로그인할 수 있습니다.
 - **메인 화면**: 로그인 후 메인 메뉴를 통해 환자 정보, 건강 기록, 공지사항, 식단 정보 등 다양한 정보를 확인할 수 있습니다.
   
